@@ -1,3 +1,6 @@
 js
 
 open
+
+
+console
